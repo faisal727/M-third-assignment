@@ -1,0 +1,11 @@
+.d-flex {
+    display: flex !important;
+    flex-wrap: wrap;
+}
+.text-center{
+    margin-top: 50px;
+}
+.button{
+    justify-content: center;
+    text-align: center;
+}
