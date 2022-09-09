@@ -9,6 +9,8 @@
     justify-content: center;
     text-align: center;
 }
-.text-end{
- 
+.col,img{
+    height: 40px;
+    width: 50px;
+
 }
