@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .d-flex {
     display: flex !important;
     flex-wrap: wrap;
@@ -9,8 +12,12 @@
     justify-content: center;
     text-align: center;
 }
-.col,img{
-    height: 40px;
-    width: 50px;
-
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 20px;
 }
+
+
